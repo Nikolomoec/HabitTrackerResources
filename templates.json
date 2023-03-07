@@ -1,0 +1,34 @@
+[
+   {
+     "id": 1,
+     "name": "💪 Work out"
+   },
+   {
+     "id": 2,
+     "name": "🏃 Running"
+   },
+   {
+     "id": 3,
+     "name": "📖 Read"
+   },
+   {
+     "id": 4,
+     "name": "👨‍🎓 Study"
+   },
+   {
+     "id": 5,
+     "name": "🧘 Meditate"
+   },
+   {
+     "id": 6,
+     "name": "💪 Walk the Dog"
+   },
+   {
+     "id": 7,
+     "name": "💨 No Smoking"
+   },
+   {
+     "id": 8,
+     "name": "🍔 No Fast Food"
+   }
+]
